@@ -34,9 +34,12 @@ THEN the saved events persist
 
 ## Stuff done
 1. commit 1
+   1. upload files
 2. commit 2
+   1. add index.html
+3. commit 3
    1. restructure files
    2. add indexCurrentDay.js
    3. enable Display Current Day
-   4. create css grid for planner
-   5. update readme.md
+   4. setup basic css grid for planner
+   
